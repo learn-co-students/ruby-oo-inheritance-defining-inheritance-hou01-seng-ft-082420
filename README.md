@@ -29,6 +29,7 @@ In this domain model, we have class `Vehicle` that will act as the parent, or su
 
 Open up `lib/vehicle.rb`. We're going to define some methods in this parent class so that our subclasses, when we make them, will have access to them.
 
+
 ```ruby
 class Vehicle
 
